@@ -12,7 +12,7 @@ Some of the features:
 4. Uses cloud based backend provided by Firebase.
 5. All of the styling has been done with styled-components, a Reatjs library.
 
-This is the project with which I learned React up from the very basics. Faced a lot of challenges and enjoyed the incredible experience.\
+This is the project with which I learned React up from the very basics. Faced a lot of challenges and enjoyed the incredible experience.
 
 ## Here's how it looks-like
 
