@@ -2,7 +2,7 @@
 
 Link to the live web application => (https://db-crownclothing.web.app) \
 A Frontend, React/Firebase "E-Commerce" Web-application.\
-This project utilises Firebase backend with its authentication services along with a Reactjs front-end.\
+This project utilises Firebase backend with its authentication services along with a Reactjs front-end.
 
 Some of the features:
 
