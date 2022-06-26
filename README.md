@@ -24,13 +24,9 @@ This is the project with which I learned React up from the very basics. Faced a 
 <hr/>
 <img src='Preview/image-4.png' />
 
-<!-- ## Here are some of the Clips
+## Here are some of the Clips
 
-
-
-<hr/>
-
--->
+https://user-images.githubusercontent.com/78212328/175823959-918dd47f-a284-491e-97f6-54a5e4980423.mp4
 
 ## How to Run the project on your Device
 
