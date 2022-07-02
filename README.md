@@ -1,4 +1,4 @@
-# React-Web3Foundations
+# React-CrownClothing
 
 Link to the live web application => (https://db-crownclothing.web.app) \
 A Frontend, React/Firebase "E-Commerce" Web-application.\
